@@ -9,7 +9,7 @@ A passionate  Full stack software engineer from Nigeria<br>🔭 I'm currently wo
 <table style="width:100%; border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px;">
   <tr>
     <td style="width: 200px;">
-      <img src="https://github.com/thecypherzen/thecypherzen/blob/trunk/assets/balancee_thumbnail.png?raw=true" width="400px" style="border-radius: 8px;"/>
+      <img src="https://i.ibb.co/hFkHgWyW/Screenshot-2025-06-09-at-20-22-30.png" width="400px" style="border-radius: 8px;"/>
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
       <h3>🚗 Balancee Booking</h3>
@@ -26,7 +26,7 @@ A passionate  Full stack software engineer from Nigeria<br>🔭 I'm currently wo
 <table style="width:100%; border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px;">
   <tr>
     <td style="width: 200px;">
-      <img src="https://github.com/thecypherzen/thecypherzen/blob/trunk/assets/resonix_thumbnail.png?raw=true" width="400px" style="border-radius: 8px;"/>
+      <img src="https://i.ibb.co/9HStSpWK/resonix-mp.png" width="400px" style="border-radius: 8px;"/>
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
       <h3>🎵 Resonix</h3>
@@ -43,7 +43,7 @@ A passionate  Full stack software engineer from Nigeria<br>🔭 I'm currently wo
 <table style="width:100%; border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px;">
   <tr>
     <td style="width: 200px;">
-      <img src="https://github.com/thecypherzen/thecypherzen/blob/trunk/assets/daytrakr_thumbnail.png?raw=true" width="400px" style="border-radius: 8px;"/>
+      <img src="https://i.ibb.co/3mry2Lhw/daytrakr-thumbnail.png" width="400px" style="border-radius: 8px;"/>
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
       <h3>📝 DayTrakr</h3>
@@ -60,7 +60,7 @@ A passionate  Full stack software engineer from Nigeria<br>🔭 I'm currently wo
 <table style="width:100%; border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px;">
   <tr>
     <td style="width: 200px;">
-      <img src="https://github.com/thecypherzen/thecypherzen/blob/trunk/assets/bitepilot_thumbnail.png?raw=true" width="400px" style="border-radius: 8px;"/>
+      <img src="https://i.ibb.co/TBr74FCr/bitepilot-thumbnail.png" width="400px" style="border-radius: 8px;"/>
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
       <h3>🍽️ Bite Pilot</h3>
@@ -75,7 +75,7 @@ A passionate  Full stack software engineer from Nigeria<br>🔭 I'm currently wo
 <table style="width:100%; border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px;">
   <tr>
     <td style="width: 200px;">
-      <img src="https://imgur.com/a/r84DO5C" width="400px" style="border-radius: 8px;"/>
+      <img src="https://i.ibb.co/Z6B4Lvcb/login-ui-demo.png" width="400px" style="border-radius: 8px;"/>
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
       <h3>🪩 Login UI</h3>
