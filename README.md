@@ -71,6 +71,21 @@ A passionate  Full stack software engineer from Nigeria<br>🔭 I'm currently wo
   </tr>
 </table>
 
+<!-- LoginUi Demo -->
+<table style="width:100%; border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px;">
+  <tr>
+    <td style="width: 200px;">
+      <img src="https://imgur.com/a/r84DO5C" width="400px" style="border-radius: 8px;"/>
+    </td>
+    <td style="padding-left: 20px; vertical-align: top;">
+      <h3>🪩 Login UI</h3>
+      <p>A login interface for any app <strong> that utilises jsnowebtokens for authentication</strong>.</p>
+      <a href="https://login-ui-demo.vercel.app/" target="_blank">🔗 Live</a> • 
+      <a href="https://github.com/thecypherzen/login_ui" target="_blank">💻 GitHub</a>
+    </td>
+  </tr>
+</table>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/william-inyam-2503a8202) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/williamInyam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCkRSqDa5MjftEg9YiZQQHeQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sw.inyam@outlook.com) 
 
